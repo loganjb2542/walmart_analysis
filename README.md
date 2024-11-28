@@ -20,7 +20,8 @@ day_name: Identifies the day of the week.
 
 month_name: Specifies the month of the year.
 
-product_category: Groups products into broader categories (e.g., electronics, health, food).
+product_category: Groups products into two categories (e.g., good, bad).
+![Screenshot (339)](https://github.com/user-attachments/assets/d3dc5352-a797-43bb-b42e-04c20dde305c)
 ## Exploratory Data Analysis (EDA)
 
 The EDA is divided into three primary sections:
