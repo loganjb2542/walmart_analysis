@@ -1,5 +1,4 @@
-![Alt text](file:///C:/Users/Dell/Downloads/walmart_logo.jpg)
-
+![walmart_logo](https://github.com/user-attachments/assets/265ed8cb-55b2-4c09-bb69-a016cf7b0622)
 # Walmart Sales Data Analysis with SQL
 
 ## Project Description
