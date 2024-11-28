@@ -1,4 +1,4 @@
-
+![Alt text](file:///C:/Users/Dell/Downloads/walmart_logo.jpg)
 
 # Walmart Sales Data Analysis with SQL
 
