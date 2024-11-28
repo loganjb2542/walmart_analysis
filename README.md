@@ -9,6 +9,20 @@ This project delves into Walmart's sales data, employing SQL queries to extract 
 
 The dataset utilized for this analysis is a Walmart sales CSV file, which was loaded into a SQL workbench.
 ![Screenshot (337)](https://github.com/user-attachments/assets/fc5252ca-cb9e-4aa7-bfe9-14d0c526046f)
+### Process of importing csv file SQL Workbench Using the Table Data Import Wizard
+
+1. Right-click on the database or the newly created table.
+2. Select "Table Data Import Wizard".
+3. Click "Browse" to select the CSV file.
+4. Choose the destination table (existing or newly created).
+5. Configure the import settings:
+a> Character Set: Specify the character encoding of the CSV file (e.g., UTF-8, Latin1).
+b> Field Terminator: Indicate the delimiter used to separate fields (e.g., comma, semicolon, tab).
+c> Row Terminator: Specify the character(s) that mark the end of a row (e.g., newline).
+d> Enclosed By: Define the character used to enclose field values (e.g., double quotes).
+e> Escaped By: Specify the escape character used to escape special characters within field values.
+6. Click "Next" to review the mapping of CSV columns to table columns. Adjust as needed.
+7. Click "Finish" to start the import process.
 
 ## Data Preparation
 
