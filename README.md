@@ -8,6 +8,7 @@ This project delves into the sales data of a Walmart store, employing SQL querie
 ## Data Source
 
 The dataset utilized for this analysis is a Walmart sales CSV file, which was loaded into a SQL workbench.
+![Screenshot (337)](https://github.com/user-attachments/assets/fc5252ca-cb9e-4aa7-bfe9-14d0c526046f)
 
 ## Data Preparation
 
