@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project delves into the sales data of a Walmart store, employing SQL queries to extract valuable insights and conduct a comprehensive Exploratory Data Analysis (EDA). The primary objective is to understand customer behavior, product performance, and overall sales trends.
+This project delves into Walmart's sales data, employing SQL queries to extract valuable insights and conduct a comprehensive Exploratory Data Analysis (EDA). The primary objective is to understand customer behavior, product performance, and overall sales trends.
 
 ## Data Source
 
@@ -20,7 +20,7 @@ day_name: Identifies the day of the week.
 
 month_name: Specifies the month of the year.
 
-product_category: Groups products into two categories (e.g., good, bad).
+product_category: Grouped products into two categories (e.g., good and bad).
 ![Screenshot (339)](https://github.com/user-attachments/assets/d3dc5352-a797-43bb-b42e-04c20dde305c)
 ## Exploratory Data Analysis (EDA)
 
@@ -29,9 +29,9 @@ The EDA is divided into three primary sections:
 ### 1. Product Analysis
 
 ####  Most common payment method: 
-Identifies the most used payment method from different type of payment method and how many times it was used.
+Identifies the most used payment method from different payment methods and how many times it was used.
 #### Total revenue by month: 
-Evaluates the sales performance monthly and the total ammount of the sales for that particular month.
+Evaluates the sales performance monthly and the total amount of the sales for that particular month.
 ####  The most selling product line :
 Analyzes which product line was sold most frequently.
 #### City with the highest revenue:
@@ -41,19 +41,19 @@ Which city has generated the maximum revenue.
 #### Customer Segmentation: 
 Divides customers into segments based on types of customers.
 ####  Gender distribution per branch: 
-Compares the number of males and females per branch.
+Compare the number of males and females per branch.
 #### Gender of most of the customers:
-Examines that which gender mostly visits walmart .
-#### Day of the week has the best avg ratings:
+Examines which gender mostly visits walmart.
+#### Day of the week has the best average ratings:
 Calculates the best average rating among the different days of the week.
 ### 3. Sales Analysis
 
 #### Sales Trends Over Weekdays: 
 Tracks overall sales trends over different time periods (on Weekdays).
-#### City has the largest tax percent/ VAT (Value Added Tax): 
-Analyzes the distribution of VAT across various cities and gives out the city name with the highest collection .
+#### City has the largest tax percentage/ VAT (Value Added Tax): 
+Analyzes the distribution of VAT across various cities and gives out the city name with the highest collectio.
 #### Customer type that generates the highest revenue: 
-Identifies which customer generate the maximum revenue.
+Identifies which customers generate the maximum revenue.
 
 ## Tools and Technologies
 
